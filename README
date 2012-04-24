@@ -1,0 +1,10 @@
+Quick n' Dirty Craigslist Apartment Finder
+=======
+
+How to run
+-----
+
+1) Edit loop.rb and add your own URL to watch
+2)
+
+    TO_EMAIL_ADRESS=test@example.com ruby loop.rb
